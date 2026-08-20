@@ -15,6 +15,10 @@ Autonomous resolution architecture built on **Salesforce Agentforce**, designed 
 
 ## 🏗️ Technical Architecture & Key Capabilities
 
+![Flow Builder Architecture](flow-architecture.png)
+
+![Agentforce Execution & Reasoning](agent-demo.png)
+
 1. **Deterministic Flow Logic & Identity Authentication:**  
    Enforces secure 4-digit PIN verification before triggering any backend execution or remote network resets.
 
